@@ -22,7 +22,7 @@ Looking at the over 2 million users of the Citibike program, about 65.28% of the
 
 
 
-According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219) the gender ratios in NYC are similar to those in Des Moines Iowa. In July of 2019, Des Moines was comprised of roughly 50.7% female, where NYC was 52.3% female. This could indicate that there could be similar trends based on gender demographics alone. In New York City, the highest density of Top Starting and Top Ending locations for Citibike trips occur most frequently in mid-town Manhattan. The highest density trips also correlate to popular tourist locations; as well as popular hotel locations. 
+According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219) the gender ratios in NYC are similar to those in Des Moines Iowa. In July of 2019, Des Moines was comprised of roughly 50.7% female, where NYC was 52.3% female. This could indicate that there could be similar trends based on gender demographics alone. In New York City, the highest density of Top Starting and Top Ending locations for Citibike trips occur most frequently in mid-town Manhattan, where there are many offices and businesses with commuter employees. The highest density trip areas also correlate to popular tourist locations; as well as popular hotel locations. 
 
 ![Location Density](https://user-images.githubusercontent.com/84881187/132614892-7ddec200-ce2b-4178-a132-aa8b09f66bb0.PNG)
 

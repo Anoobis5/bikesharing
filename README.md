@@ -28,8 +28,38 @@ According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table
 
 When we look at the length of time for each bike rental, along with the number of rentals, we see that the majority of rentals are less than 30 minutes. This lets us know that it would be beneficial for the bikesharing service to cover the release demands of the potential users. Looking at the gender graph, the trend correlates to the amount of users, as there tend to be more male users. Male users also take slightly longer trips. 
 
-While 
 
 ![Checkout Times](https://user-images.githubusercontent.com/84881187/132615718-fb5e2bd5-0d85-44a7-ae23-7c7d58a3b991.PNG)
 
+Looking at the Checkout Times by Gender, we see a similar trend to to the user population. Males make us a majority of users and tend to take slightly longer trips, but overall rental times appear to be fairly equal across all genders. 
+
+
+Looking at our Trips by Dat of the Week graph, we see that Thursday has significantly more users than any other day of the week. 
+
+![Trips by Day](https://user-images.githubusercontent.com/84881187/132772132-e0a91e71-7abc-4203-ab80-2b873283be0f.PNG)
+
+When we examine our Peak Hours for the month of August, 2019, we can observe that the highest number of users is during 5pm - 7pm
+
+
+When we join this data, our Trips By Hour chart shows that Thursdays at 5pm - 6pm definitely have the highest density of users on the road.
+
+![Trip By Hour](https://user-images.githubusercontent.com/84881187/132772522-14587e36-43e2-46d2-99d0-0f41d33bd86a.PNG)
+
+When we take a closer look at the data in our Trip By Day per Hour chart, we can see that Male users do indeed make up a significant portion of the traffic on Thursday afternoons, as well as Monday, Tuesday, and to an extent Friday during the peak 5pm - 7pm time slots.
+
+![Trip By Hour by Gender](https://user-images.githubusercontent.com/84881187/132772825-6a9f59e2-33c2-4d3c-b8b1-c40f32560a4c.PNG)
+
+
+Looking at our Trips by Weekday Topography chart, we can see that the majority of users during those Thursday rush-hours are primarily Male Users that are subscribers to the service. This could indicate that a significant number of the users are not only tourists, but business men, local to the area, using the service on a regular basis to commute to and from work. Non-subscribers tend to use the service more during the weekend days. 
+
+![Trip by Weekday topography](https://user-images.githubusercontent.com/84881187/132772626-307580e6-55b2-47ab-9c5a-93bca8fc1098.PNG)
+
+
+## Proposal Summary
+
+Looking a the data visualized in our proposal, we see that the vast majority of our bikesharing service's users will potentially from from Male Subscribers that will be using the bikesharing service to commute to and from work during the morning and evening. This gives our marketing team a good target group to focus on for attracting initial subscribers. The next most popular times are weekends. Looking at our NYC Citibike data, we can also target tourists and anyone going out to recreational areas of interest in our marketing strategies.
+
+Before starting up our service, we need to make sure that the company invests in acquiring a large quanity of bike to meet the potential demand upon release. Bike trips tend to last on average less than 30 mins. This means there will be quite a bit of availability circulation at different bike stations. Our Top Starting and Top Ending Chart gives a good idea of this kind of trend.
+
+Our bike sharing service could target the metropolitan area to get similar trends to NYC's successful Citibike program; but there are many other untapped variables we could advertise to. While in NYC, we dont have as much CitiBike usage data in other boroughs outside of Manhattan, we could target biking trails and rural areas outside of the Des Moines metropolitan area as potential zones to set up Bike Rental Stations. Overall, our data shows that opening a bike sharing service in Des Moines will be beneficial to the community and the environment. 
 

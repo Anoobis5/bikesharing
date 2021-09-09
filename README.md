@@ -32,7 +32,7 @@ When we look at the length of time for each bike rental, along with the number o
 
 ![Checkout Times](https://user-images.githubusercontent.com/84881187/132615718-fb5e2bd5-0d85-44a7-ae23-7c7d58a3b991.PNG)
 
-Looking at the Checkout Times by Gender, we see a similar trend to to the user population. Males make us a majority of users and tend to take slightly longer trips, but overall rental times appear to be fairly equal across all genders. 
+Looking at the Checkout Times by Gender, we see a similar trend to to the user population. Males make us a majority of users, but overall rental times appear to be fairly equal across all genders. 
 
 
 Looking at our Trips by Dat of the Week graph, we see that Thursday has significantly more users than any other day of the week. 

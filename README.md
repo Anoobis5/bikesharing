@@ -26,8 +26,16 @@ According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table
 ![Location Density](https://user-images.githubusercontent.com/84881187/132614892-7ddec200-ce2b-4178-a132-aa8b09f66bb0.PNG)
 
 
-When we look at the length of time for each bike rental, along with the number of rentals, we see that the majority of rentals are less than 30 minutes. 
+When we look at the length of time for each bike rental, along with the number of rentals, we see that the majority of rentals are less than 30 minutes. This indicates that it would be in the best interest of the bikesharing service to invest in a large quanity of bikes upon initial release to meet the demand of the potential users.
 
 ![Checkout Times](https://user-images.githubusercontent.com/84881187/132615718-fb5e2bd5-0d85-44a7-ae23-7c7d58a3b991.PNG)
 
 
+Looking at the Checkout Times by Gender, we see a similar trend to to the user population. Males make us a majority of users and tend to take slightly longer trips. 
+
+
+Looking at our Trips by Dat of the Week graph, we see that Thursday has significantly more users than any other day of the week. 
+
+![Trips by Day](https://user-images.githubusercontent.com/84881187/132772132-e0a91e71-7abc-4203-ab80-2b873283be0f.PNG)
+
+When we examine our Peak Hours for the month of August, 2019, we can observe that the highest number of users is during5pm - 7pm

@@ -45,8 +45,16 @@ When we join this data, our Trips By Hour chart shows that Thursdays at 5pm - 6p
 
 ![Trip By Hour](https://user-images.githubusercontent.com/84881187/132772522-14587e36-43e2-46d2-99d0-0f41d33bd86a.PNG)
 
-Looking at our Trips by Weekday Topography chart, we can see that the majority of users during those Thursday rush-hours are primarily Male Users that are subscribers to the service. This could indicate that a significant number of the users are not only tourists, but business men, local to the area, using the service on a regular basis.
+When we take a closer look at the data in our Trip By Day per Hour chart, we can see that Male users do indeed make up a significant portion of the traffic on Thursday afternoons, as well as Monday, Tuesday, and to an extent Friday during the peak 5pm - 7pm time slots.
+
+![Trip By Hour by Gender](https://user-images.githubusercontent.com/84881187/132772825-6a9f59e2-33c2-4d3c-b8b1-c40f32560a4c.PNG)
+
+
+Looking at our Trips by Weekday Topography chart, we can see that the majority of users during those Thursday rush-hours are primarily Male Users that are subscribers to the service. This could indicate that a significant number of the users are not only tourists, but business men, local to the area, using the service on a regular basis to commute to and from work. Non-subscribers tend to use the service more during the weekend days. 
 
 ![Trip by Weekday topography](https://user-images.githubusercontent.com/84881187/132772626-307580e6-55b2-47ab-9c5a-93bca8fc1098.PNG)
+
+
+## Proposal Summary
 
 

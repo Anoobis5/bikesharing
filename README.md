@@ -38,4 +38,15 @@ Looking at our Trips by Dat of the Week graph, we see that Thursday has signific
 
 ![Trips by Day](https://user-images.githubusercontent.com/84881187/132772132-e0a91e71-7abc-4203-ab80-2b873283be0f.PNG)
 
-When we examine our Peak Hours for the month of August, 2019, we can observe that the highest number of users is during5pm - 7pm
+When we examine our Peak Hours for the month of August, 2019, we can observe that the highest number of users is during 5pm - 7pm
+
+
+When we join this data, our Trips By Hour chart shows that Thursdays at 5pm - 6pm definitely have the highest density of users on the road.
+
+![Trip By Hour](https://user-images.githubusercontent.com/84881187/132772522-14587e36-43e2-46d2-99d0-0f41d33bd86a.PNG)
+
+Looking at our Trips by Weekday Topography chart, we can see that the majority of users during those Thursday rush-hours are primarily Male Users that are subscribers to the service. This could indicate that a significant number of the users are not only tourists, but business men, local to the area, using the service on a regular basis.
+
+![Trip by Weekday topography](https://user-images.githubusercontent.com/84881187/132772626-307580e6-55b2-47ab-9c5a-93bca8fc1098.PNG)
+
+

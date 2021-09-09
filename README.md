@@ -16,9 +16,10 @@ We then added these visualizations to the two visualizations we made prior to tr
 
 ## Results
 
-Looking at the over 2 million users of the Citibike program, about 65% of the users are men, and  81% of the users are subscribers to the program as opposed to casual customers. 
+Looking at the over 2 million users of the Citibike program, about 65.28% of the users are men, and 81.07% of the users are subscribers to the program as opposed to casual customers. 
 
-![Rider Topography](https://user-images.githubusercontent.com/84881187/132613986-5aefff38-7399-4275-9194-e3fd445a79ce.PNG)
+![Rider Topography](https://user-images.githubusercontent.com/84881187/132776138-9bf5297b-d3ac-4dc4-9f3a-77f690eb30e6.PNG)
+
 
 
 According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork,desmoinescityiowa/PST045219) the gender ratios in NYC are similar to those in Des Moines Iowa. In July of 2019, Des Moines was comprised of roughly 50.7% female, where NYC was 52.3% female. This could indicate that there could be similar trends based on gender demographics alone. In New York City, the highest density of Top Starting and Top Ending locations for Citibike trips occur most frequently in mid-town Manhattan. The highest density trips also correlate to popular tourist locations; as well as popular hotel locations. 

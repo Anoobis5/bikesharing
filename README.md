@@ -27,7 +27,7 @@ According to the [US Census Bureau](https://www.census.gov/quickfacts/fact/table
 ![Location Density](https://user-images.githubusercontent.com/84881187/132614892-7ddec200-ce2b-4178-a132-aa8b09f66bb0.PNG)
 
 
-When we look at the length of time for each bike rental, along with the number of rentals, we see that the majority of rentals are less than 30 minutes. This lets us know that it would be beneficial for the bikesharing service to cover the release demands of the potential users. Looking at the gender graph, the trend correlates to the amount of users, as there tend to be more male users. Male users also take slightly longer trips. 
+When we look at the length of time for each bike rental, along with the number of rentals, we see that the majority of rentals are less than 30 minutes. This lets us know that it would be beneficial for the bikesharing service to cover the release demands of the potential users. Looking at the gender graph, the trend correlates to the amount of users, as there tend to be more male users.
 
 
 ![Checkout Times](https://user-images.githubusercontent.com/84881187/132615718-fb5e2bd5-0d85-44a7-ae23-7c7d58a3b991.PNG)

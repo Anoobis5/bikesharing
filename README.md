@@ -31,7 +31,7 @@ When we look at the length of time for each bike rental, along with the number o
 ![Checkout Times](https://user-images.githubusercontent.com/84881187/132615718-fb5e2bd5-0d85-44a7-ae23-7c7d58a3b991.PNG)
 
 
-Looking at the Checkout Times by Gender, we see a similar trend to to the user population. Males make us a majority of users and tend to take slightly longer trips. 
+Looking at the Checkout Times by Gender, we see a similar trend to to the user population. Males make us a majority of users and tend to take slightly longer trips, but overall rental times appear to be fairly equal across all genders. 
 
 
 Looking at our Trips by Dat of the Week graph, we see that Thursday has significantly more users than any other day of the week. 
@@ -57,4 +57,8 @@ Looking at our Trips by Weekday Topography chart, we can see that the majority o
 
 ## Proposal Summary
 
+Looking a the data visualized in our proposal, we see that the vast majority of our bikesharing service's users will potentially from from Male Subscribers that will be using the bikesharing service to commute to and from work during the morning and evening. This gives our marketing team a good target group to focus on for attracting initial subscribers. The next most popular times are weekends. Looking at our NYC Citibike data, we can also target tourists and anyone going out to recreational areas of interest in our marketing strategies.
 
+Before starting up our service, we need to make sure that the company invests in acquiring a large quanity of bike to meet the potential demand upon release. Bike trips tend to last on average less than 30 mins. This means there will be quite a bit of availability circulation at different bike stations. Our Top Starting and Top Ending Chart gives a good idea of this kind of trend.
+
+Our bike sharing service could target the metropolitan area to get similar trends to NYC's successful Citibike program; but there are many other untapped variables we could advertise to. While in NYC, we dont have as much CitiBike usage data in other boroughs outside of Manhattan, we could target biking trails and rural areas outside of the Des Moines metropolitan area as potential zones to set up Bike Rental Stations. Overall, our data shows that opening a bike sharing service in Des Moines will be beneficial to the community and the environment. 

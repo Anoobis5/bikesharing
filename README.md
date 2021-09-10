@@ -12,7 +12,7 @@ For our proposal, we used Pandas to change the "tripduration" column from our '2
   * See the number of bike trips for all riders and genders for each hour of each day of the week.
   * See the number of bike trips for each type of user and gender for each day of the week.
 
-We then added these visualizations to the two visualizations we made prior to transforming our datatype data. Please [click here to view the completed Dashboard](https://public.tableau.com/shared/3235TF8T7?:display_count=n&:origin=viz_share_link) to view the complete story proposal.
+We then added these visualizations to the two visualizations we made prior to transforming our datatype data. Please [click here to view the completed Dashboard](https://public.tableau.com/app/profile/kyle4817/viz/NYC_CitiBike_bikesharing_Challenge/NYC_Bikesharing_Challenge?publish=yes) to view the complete story proposal.
 
 ## Results
 
